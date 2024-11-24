@@ -1,0 +1,1 @@
+The purpose of this repo is to build a simple web server and deploy it on Docker.
